@@ -31,11 +31,10 @@
     box-sizing: border-box;
 }
 
-body,
 html {
     height: 100%;
     font-family: Poppins-Regular, sans-serif;
-    background: url(/public/images/bg_index.jpg) no-repeat center center fixed; 
+    background: url(public/images/bg_index.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
