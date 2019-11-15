@@ -32,7 +32,7 @@ body {
 }
 
 .social-share-wrapper {
-    padding: 8px;
+    padding: 3px;
     box-shadow: -1px 0px 5px 2px grey;
     background-color: #fff;
     display: inline-grid;
@@ -40,7 +40,7 @@ body {
 
 a.social-media {
     font-family: Poppins-Regular;
-    font-size: 18px;
+    font-size: 25px;
     line-height: 1.7;
     color: #666666;
     margin: 5px;
