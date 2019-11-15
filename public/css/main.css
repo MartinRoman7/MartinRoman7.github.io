@@ -50,6 +50,12 @@ a.social-media {
     -moz-transition: all 0.4s;
 }
 
+.content-div {
+    width: 100%;
+	position: absolute;
+	top: 30%;
+}
+
 .avatar-div {
     width: 270px;
 	height: 150px;
