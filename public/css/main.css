@@ -49,3 +49,7 @@ a.social-media {
     -o-transition: all 0.4s;
     -moz-transition: all 0.4s;
 }
+
+img.avatar {
+    border-radius: 50%;
+  }
