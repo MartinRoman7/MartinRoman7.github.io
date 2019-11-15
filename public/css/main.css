@@ -26,7 +26,7 @@ body {
 
 .social-share-container {
     position: fixed;
-    top: 40%;
+    top: 35%;
     right: 0;
     bottom: initial;
 }
@@ -40,7 +40,7 @@ body {
 
 a.social-media {
     font-family: Poppins-Regular;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.7;
     color: #666666;
     margin: 5px;
