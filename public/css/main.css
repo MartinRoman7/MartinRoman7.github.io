@@ -79,11 +79,20 @@ p.name {
     font-size: 25px;
 }
 
-.button-about-container {
+.buttons-container {
     position: relative;
     bottom: initial;
     right: 30%;
     margin-top: 10%;
+    width: 200%;
+}
+
+a.about {
+    margin-left: 93px;
+}
+
+a.projects {
+    margin-left: 15px;
 }
 
 @media (max-width: 768px) {
