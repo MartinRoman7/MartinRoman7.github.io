@@ -118,7 +118,6 @@ a.projects {
     div.avatar-div {
         position: absolute;
         left: 55%;
-        top: 35%;
         transform: translate(-50%,-50%);
     }
 
