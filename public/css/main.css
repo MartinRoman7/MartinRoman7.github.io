@@ -50,6 +50,11 @@ a.social-media {
     -moz-transition: all 0.4s;
 }
 
+#avatar-image {
+    width: 200px;
+    border-radius: 50%;
+}
+
 div.content-div {
     position: relative;
     height: 100%;
@@ -66,4 +71,42 @@ div.name-div {
     position: relative;
     left: -10%;
     margin-top: 5%;
+}
+
+#name {
+    color:white;
+    font-size: 25px;
+}
+
+@media (max-width: 768px) {
+
+    a.social-media {
+        font-family: Poppins-Regular;
+        font-size: 10px;
+        line-height: 1.7;
+        color: #666666;
+        margin: 3px;
+        transition: all 0.4s;
+        -webkit-transition: all 0.4s;
+        -o-transition: all 0.4s;
+        -moz-transition: all 0.4s;
+    }
+
+    #avatar-image {
+        width: 150px;
+        border-radius: 50%;
+    }
+
+    div.avatar-div {
+        position: absolute;
+        left: 55%;
+        top: 35%;
+        transform: translate(-50%,-50%);
+    }
+
+    #name {
+        color:white;
+        font-size: 15px;
+    }
+
 }
