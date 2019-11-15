@@ -82,15 +82,8 @@ p.name {
 .button-about-container {
     position: relative;
     bottom: initial;
-    right: 35%;
-    margin-top: 30%;
-}
-
-.button-projects-container {
-    position: relative;
-    bottom: initial;
-    left: 70%;
-    margin-top: 30%;
+    right: 30%;
+    margin-top: 10%;
 }
 
 @media (max-width: 768px) {
