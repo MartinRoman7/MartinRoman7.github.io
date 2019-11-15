@@ -50,7 +50,7 @@ a.social-media {
     -moz-transition: all 0.4s;
 }
 
-#avatar-image {
+img.avatar-image {
     width: 200px;
     border-radius: 50%;
 }
@@ -73,7 +73,7 @@ div.name-div {
     margin-top: 5%;
 }
 
-#name {
+p.name {
     color:white;
     font-size: 25px;
 }
@@ -92,7 +92,7 @@ div.name-div {
         -moz-transition: all 0.4s;
     }
 
-    #avatar-image {
+    img.avatar-image {
         width: 150px;
         border-radius: 50%;
     }
@@ -104,7 +104,7 @@ div.name-div {
         transform: translate(-50%,-50%);
     }
 
-    #name {
+    p.name {
         color:white;
         font-size: 15px;
     }
