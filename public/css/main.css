@@ -79,10 +79,12 @@ p.name {
     font-size: 25px;
 }
 
-.buttons-container {
-    position: fixed;
-    top: 35%;
+.button-about-container {
+    position: absolute;
+    top: 60%;
     bottom: initial;
+    left: 35%;
+    transform: translate(-50%,-50%);
 }
 
 @media (max-width: 768px) {
