@@ -52,20 +52,18 @@ a.social-media {
 
 div.content-div {
     position: relative;
-    width: 100vh;
-    height: 100vh;
+    height: 100%;
 }
 
 div.avatar-div {
     position: absolute;
     left: 50%;
-    top: 30%;
+    top: 35%;
     transform: translate(-50%,-50%);
 }
 
 div.name-div {
-    position: absolute;
-    left: 50%;
-    top: 40%;
-    transform: translate(-50%,-50%);
+    position: relative;
+    left: -10%;
+    margin-top: 5%;
 }
