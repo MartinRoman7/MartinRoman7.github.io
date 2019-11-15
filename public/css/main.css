@@ -50,26 +50,16 @@ a.social-media {
     -moz-transition: all 0.4s;
 }
 
-.content-div {
-    width: 100%;
-	position: absolute;
-	top: 30%;
-}
-
 .avatar-div {
-    width: 270px;
-	height: 150px;
-	position: absolute;
-	left: 50%;
-	top: 30%;
-	margin: -75px 0 0 -135px;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
 }
 
 .name-div {
-    width: 270px;
-	height: 150px;
-	position: absolute;
-	left: 50%;
-	top: 30%;
-	margin: -75px 0 0 -135px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-50%);
 }
