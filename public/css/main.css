@@ -96,6 +96,7 @@ p.name {
     img.avatar-image {
         width: 150px;
         border-radius: 50%;
+        margin-left: -10px;
     }
 
     div.avatar-div {
