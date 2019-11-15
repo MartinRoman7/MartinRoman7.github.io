@@ -127,6 +127,14 @@ a.projects {
         font-size: 15px;
     }
 
+    .buttons-container {
+        position: relative;
+        bottom: initial;
+        right: 30%;
+        margin-top: 20px;
+        width: 200%;
+    }
+
     a.about {
         margin-left: 20px;
     }
