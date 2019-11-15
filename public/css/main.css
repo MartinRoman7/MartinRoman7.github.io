@@ -58,3 +58,12 @@ a.social-media {
 	top: 30%;
 	margin: -75px 0 0 -135px;
 }
+
+.name-div {
+    width: 270px;
+	height: 150px;
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	margin: -75px 0 0 -135px;
+}
