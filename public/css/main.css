@@ -80,7 +80,7 @@ p.name {
 }
 
 .button-about-container {
-    position: absolute;
+    position: relative;
     top: 60%;
     bottom: initial;
     left: 30%;
