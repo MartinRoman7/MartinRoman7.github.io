@@ -23,3 +23,29 @@ body {
     background-size: contain;
     background-repeat: repeat;
 }
+
+.social-share-container {
+    position: fixed;
+    top: 40%;
+    right: 0;
+    bottom: initial;
+}
+
+.social-share-wrapper {
+    padding: 8px;
+    box-shadow: -1px 0px 5px 2px grey;
+    background-color: #fff;
+    display: inline-grid;
+}
+
+a.social-media {
+    font-family: Poppins-Regular;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 5px;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+}
