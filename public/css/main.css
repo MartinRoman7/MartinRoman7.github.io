@@ -63,7 +63,7 @@ div.content-div {
 div.avatar-div {
     position: absolute;
     left: 50%;
-    top: 35%;
+    top: 45%;
     transform: translate(-50%,-50%);
 }
 
@@ -81,10 +81,9 @@ p.name {
 
 .button-about-container {
     position: relative;
-    top: 60%;
     bottom: initial;
-    left: 30%;
-    transform: translate(-50%,-50%);
+    left: -35%;
+    margin-top: 30%;
 }
 
 @media (max-width: 768px) {
