@@ -127,4 +127,8 @@ a.projects {
         font-size: 15px;
     }
 
+    a.about {
+        margin-left: 20px;
+    }
+
 }
