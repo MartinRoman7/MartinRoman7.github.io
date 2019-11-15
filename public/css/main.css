@@ -69,8 +69,9 @@ div.avatar-div {
 
 div.name-div {
     position: relative;
-    left: -10%;
+    left: -15%;
     margin-top: 5%;
+    width: 200%;
 }
 
 p.name {
@@ -82,7 +83,7 @@ p.name {
 
     a.social-media {
         font-family: Poppins-Regular;
-        font-size: 10px;
+        font-size: 15px;
         line-height: 1.7;
         color: #666666;
         margin: 3px;
