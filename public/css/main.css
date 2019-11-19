@@ -149,6 +149,14 @@ h2.h2-about {
     color: #6e6e6e;
 }
 
+.row-about {
+    padding: 50px;
+}
+
+h2.h2-about {
+    margin-top: 50px;
+    color: #6e6e6e;
+}
 
 
 
@@ -210,8 +218,14 @@ h2.h2-about {
         margin-left: 25%;
         margin-top: 50px;
         color: #6e6e6e;
-        font-size: 1.2em;
+        font-size: 1.8em;
     }
 
+    h4.h4-about {
+        margin-left: 25%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.4em;
+    }
 
 }
