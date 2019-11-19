@@ -161,6 +161,12 @@ h2.h2-about {
     color: #353535;
 }
 
+h2.h2-professional {
+    margin-left: 25%;
+    margin-top: 50px;
+    color: #353535;
+}
+
 .row-about {
     padding: 35px 100px;
 }
@@ -233,6 +239,12 @@ h4.h4-about {
 
     h2.h2-about {
         margin-left: 25%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.8em;
+    }
+
+    h2.h2-professional {
         margin-top: 50px;
         color: #6e6e6e;
         font-size: 1.8em;
