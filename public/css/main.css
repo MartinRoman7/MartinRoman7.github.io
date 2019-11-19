@@ -121,8 +121,11 @@ p.name {
 
 .icons-container {
     bottom: initial;
-    margin-top: 20%;
-    display: flex;
+    margin-top: 5%;
+    right: 15%;
+    position: relative;
+    display: inline-flex;
+    width: 200%;
 }
 
 a.about {
@@ -164,7 +167,7 @@ h2.h2-about {
 
     div.avatar-div {
         position: absolute;
-        left: 55%;
+        left: 60%;
         transform: translate(-50%,-50%);
     }
 
@@ -176,8 +179,17 @@ h2.h2-about {
     .buttons-container {
         position: relative;
         bottom: initial;
-        right: 30%;
+        right: 25%;
         margin-top: 20px;
+        width: 200%;
+    }
+
+    .icons-container {
+        bottom: initial;
+        margin-top: 5%;
+        right: 30%;
+        position: relative;
+        display: inline-flex;
         width: 200%;
     }
 
@@ -191,5 +203,6 @@ h2.h2-about {
         color: #6e6e6e;
         font-size: 1.2em;
     }
+
 
 }
