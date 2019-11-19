@@ -150,10 +150,10 @@ h2.h2-about {
 }
 
 .row-about {
-    padding: 50px;
+    padding: 100px;
 }
 
-h2.h2-about {
+h4.h4-about {
     margin-top: 50px;
     color: #6e6e6e;
 }
@@ -226,6 +226,10 @@ h2.h2-about {
         margin-top: 50px;
         color: #6e6e6e;
         font-size: 1.4em;
+    }
+
+    .row-about {
+        padding: 30px;
     }
 
 }
