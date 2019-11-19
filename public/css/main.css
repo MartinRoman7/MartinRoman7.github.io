@@ -81,7 +81,13 @@ div.content-div {
     height: 100%;
 }
 
-.column {
+.column-about {
+    float: left;
+    width: 70%;
+    padding: 10px;
+}
+
+.column-professional {
     float: left;
     width: 50%;
     padding: 10px;
@@ -236,6 +242,12 @@ h4.h4-about {
 
     .row-professional {
         margin-top: 50px;
+    }
+
+    .column-about {
+        float: left;
+        width: 50%;
+        padding: 10px;
     }
 
 }
