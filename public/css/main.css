@@ -98,6 +98,12 @@ div.content-div {
     width: 25%;
     padding: 10px;
 }
+
+.column-less-professional {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
   
 .row:after {
     content: "";
@@ -161,6 +167,8 @@ h2.h2-about {
 
 .row-professional {
     margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 h4.h4-about {
@@ -247,6 +255,18 @@ h4.h4-about {
     .column-about {
         float: left;
         width: 50%;
+        padding: 10px;
+    }
+
+    .column-less-professional {
+        float: left;
+        width: 10%;
+        padding: 10px;
+    }
+
+    .column-professional {
+        float: left;
+        width: 80%;
         padding: 10px;
     }
 
