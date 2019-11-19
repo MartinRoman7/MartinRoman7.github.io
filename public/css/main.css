@@ -55,7 +55,7 @@ a.social-media {
     font-family: Poppins-Regular;
     font-size: 25px;
     line-height: 1.7;
-    color: #9b9b9b;
+    color: rgb(255, 255, 255);
     margin: 5px;
     transition: all 0.4s;
     -webkit-transition: all 0.4s;
@@ -68,7 +68,7 @@ a.social-media {
 a.social-media:hover {
     text-decoration: none;
     background-color: transparent;
-    color: rgb(255, 255, 255);
+    color: #9b9b9b;
 }
 
 img.avatar-image {
