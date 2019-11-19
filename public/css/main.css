@@ -146,7 +146,7 @@ a.projects {
 h2.h2-about {
     margin-left: 25%;
     margin-top: 50px;
-    color: #6e6e6e;
+    color: #353535;
 }
 
 .row-about {
@@ -154,7 +154,6 @@ h2.h2-about {
 }
 
 h4.h4-about {
-    margin-top: 50px;
     color: #6e6e6e;
 }
 
@@ -221,15 +220,14 @@ h4.h4-about {
         font-size: 1.8em;
     }
 
+    .row-about {
+        padding: 0px 50px;
+    }
+
     h4.h4-about {
-        margin-left: 25%;
         margin-top: 15px;
         color: #6e6e6e;
         font-size: 1.4em;
-    }
-
-    .row-about {
-        padding: 0px 50px;
     }
 
 }
