@@ -273,13 +273,13 @@ h4.h4-about {
 
     .column-less-professional {
         float: left;
-        width: 10%;
+        width: 20%;
         padding: 10px;
     }
 
     .column-professional {
         float: left;
-        width: 80%;
+        width: 60%;
         padding: 10px;
     }
 
