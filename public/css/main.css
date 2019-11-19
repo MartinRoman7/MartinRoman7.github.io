@@ -65,9 +65,10 @@ a.social-media {
     background-color: transparent;
 }
 
-a:hover {
+a.social-media:hover {
     text-decoration: none;
     background-color: transparent;
+    color: rgb(255, 255, 255);
 }
 
 img.avatar-image {
