@@ -247,6 +247,13 @@ h4.h4-about {
         transform: translate(-50%,-50%);
     }
 
+    div.name-div {
+        position: relative;
+        left: -15%;
+        margin-top: 5%;
+        width: 100%;
+    }
+
     p.name {
         color:white;
         font-size: 15px;
