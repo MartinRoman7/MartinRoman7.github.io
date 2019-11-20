@@ -21,7 +21,8 @@ body.index {
     -o-background-size: cover;
     background-size: contain;
     background-repeat: repeat;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
+    overflow-y: hidden;
     overflow-x: hidden;
 }
 
@@ -36,7 +37,8 @@ body.about {
     background-size: contain;
     background-repeat: repeat;
     height: 100%;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
+    overflow-y: hidden;
     overflow-x: hidden;
 }
 
