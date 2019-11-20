@@ -225,7 +225,7 @@ h4.h4-about {
         font-family: Poppins-Regular;
         font-size: 20px;
         line-height: 1.7;
-        color: #666666;
+        color: rgb(255, 255, 255);
         margin: 3px;
         transition: all 0.4s;
         -webkit-transition: all 0.4s;
@@ -233,6 +233,12 @@ h4.h4-about {
         -moz-transition: all 0.4s;
         text-decoration: none;
         background-color: transparent;
+    }
+    
+    a.social-media:hover {
+        text-decoration: none;
+        background-color: transparent;
+        color: #9b9b9b;
     }
 
     img.avatar-image {
