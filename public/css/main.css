@@ -15,8 +15,8 @@ body.index {
     -o-background-size: cover;
     background-size: contain;
     background-repeat: repeat;
-    overflow-y: scroll;
-    overflow-x: hidden;
+    overflow-y: auto;
+    overflow-x: auto;
 }
 
 body.about {
@@ -29,8 +29,8 @@ body.about {
     -o-background-size: cover;
     background-size: contain;
     background-repeat: repeat;
-    overflow-y: scroll;
-    overflow-x: hidden;
+    overflow-y: auto;
+    overflow-x: auto;
 }
 
 
@@ -136,6 +136,8 @@ div.name-div {
 
 div.about-me{
     margin-top: -45px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 p.name {
@@ -155,7 +157,6 @@ p.name {
     position: relative;
     bottom: initial;
     left: 0;
-    width: 200%;
 }
 
 .icons-container {
