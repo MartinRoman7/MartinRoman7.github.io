@@ -3,10 +3,11 @@ html, body, #bg, #bg table, #bg td, #cont {
 }
 
 
-/*body.index {
+body.index {
     font-family: Arial,Helvetica,sans-serif;
     font-size: 10px;
     cursor: default;
+    background: url("../images/bg_index.jpeg") no-repeat center center fixed;
     color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -15,9 +16,9 @@ html, body, #bg, #bg table, #bg td, #cont {
     background-repeat: repeat;
     overflow-y: scroll;
     overflow-x: hidden;
-}*/
+}
 
-body {
+body.about {
     font-family: Arial,Helvetica,sans-serif;
     font-size: 10px;
     cursor: default;
