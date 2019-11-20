@@ -208,6 +208,11 @@ h2.h2-personal {
     padding: 30px 100px;
 }
 
+.row-about-last {
+    padding: 30px 100px;
+    margin-bottom: 100px;
+}
+
 .row-professional {
     margin-top: 50px;
     display: flex;
@@ -305,6 +310,11 @@ h4.h4-about {
 
     .row-about {
         padding: 0px 50px;
+    }
+
+    .row-about-last {
+        padding: 0px 50px;
+        margin-bottom: 50px;
     }
 
     h4.h4-about {
