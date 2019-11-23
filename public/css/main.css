@@ -273,6 +273,12 @@ h4.h4-about {
     margin: 0px 30px;
 }
 
+.card-body-own {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
 @media (max-width: 768px) {
 
     a.social-media {
@@ -422,7 +428,7 @@ h4.h4-about {
         display: none;
     }
 
-    .card-body {
+    .card-body-own {
         -ms-flex: 1 1 auto;
         flex: 1 1 auto;
         padding: 0.5rem;
