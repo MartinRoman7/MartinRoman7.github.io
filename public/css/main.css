@@ -434,5 +434,8 @@ h4.h4-about {
         padding: 0.5rem;
     }
     
+    .none {
+        display: none;
+    }
 
 }
