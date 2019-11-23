@@ -431,7 +431,7 @@ h4.h4-about {
     .card-body-own {
         -ms-flex: 1 1 auto;
         flex: 1 1 auto;
-        padding: 0.5rem;
+        padding: 1rem;
     }
     
     .none {
