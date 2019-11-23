@@ -264,6 +264,15 @@ h4.h4-about {
     border-radius: .25rem;
 }
 
+.row-tools {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    /* margin-right: -15px; */
+    /* margin-left: -15px; */
+    margin: 0px 30px;
+}
+
 @media (max-width: 768px) {
 
     a.social-media {
