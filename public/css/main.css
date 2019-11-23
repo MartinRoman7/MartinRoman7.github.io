@@ -208,7 +208,7 @@ h2.h2-personal {
 }
 
 .row-professional {
-    margin-top: 50px;
+    margin-top: 0px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -391,7 +391,7 @@ h4.h4-inventory {
     }
 
     .row-professional {
-        margin-top: 50px;
+        margin-top: 0px;
     }
 
     .column-about {
