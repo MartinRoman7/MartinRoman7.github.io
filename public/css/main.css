@@ -134,7 +134,7 @@ div.name-div {
     width: 200%;
 }
 
-div.about-me{
+div.inventory{
     margin-top: -45px;
     display: flex;
     flex-wrap: wrap;
@@ -180,8 +180,8 @@ a.projects {
     margin-left: 15px;
 }
 
-h2.h2-about {
-    margin-left: 36%;
+h2.h2-inventory {
+    margin-left: 30%;
     margin-top: 50px;
     color: #353535;
 }
@@ -198,11 +198,11 @@ h2.h2-personal {
     color: #353535;
 }
 
-.row-about {
+.row-inventory {
     padding: 30px 100px;
 }
 
-.row-about-last {
+.row-inventory-last {
     padding: 30px 100px;
     margin-bottom: 100px;
 }
@@ -213,7 +213,7 @@ h2.h2-personal {
     flex-wrap: wrap;
 }
 
-h4.h4-about {
+h4.h4-inventory {
     color: #6e6e6e;
 }
 
@@ -354,7 +354,7 @@ h4.h4-about {
         border-radius: .2rem;
     }
 
-    h2.h2-about {
+    h2.h2-inventory {
         margin-left: 10%;
         margin-top: 50px;
         color: #6e6e6e;
@@ -375,16 +375,16 @@ h4.h4-about {
         font-size: 1.8em;
     }
 
-    .row-about {
+    .row-inventory {
         padding: 0px 50px;
     }
 
-    .row-about-last {
+    .row-inventory-last {
         padding: 0px 50px;
         margin-bottom: 80px;
     }
 
-    h4.h4-about {
+    h4.h4-inventory {
         margin-top: 15px;
         color: #6e6e6e;
         font-size: 1.4em;
