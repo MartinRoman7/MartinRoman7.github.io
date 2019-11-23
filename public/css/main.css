@@ -355,7 +355,7 @@ h4.h4-about {
     }
 
     h2.h2-about {
-        margin-left: 25%;
+        margin-left: 10%;
         margin-top: 50px;
         color: #6e6e6e;
         font-size: 1.8em;
@@ -396,7 +396,7 @@ h4.h4-about {
 
     .column-about {
         float: left;
-        width: 50%;
+        width: 70%;
         padding: 10px;
     }
 
