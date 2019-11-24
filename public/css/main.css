@@ -448,14 +448,14 @@ h4.h4-inventory {
         float: left;
         width: 15%;
         padding: 10px;
-        height: 100px;
+        height: 0px;
     }
 
     .column-less-professional {
         float: left;
         width: 10%;
         padding: 10px;
-        height: 100px;
+        height: 0px;
     }
 
     .column-professional {
@@ -468,7 +468,7 @@ h4.h4-inventory {
         float: left;
         width: 12%;
         padding: 10px;
-        height: 100px;
+        height: 0px;
     }
 
     .column-personal {
