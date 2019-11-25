@@ -195,6 +195,12 @@ h2.h2-inventory {
     color: #353535;
 }
 
+h2.h2-mail {
+    margin-left: 40%;
+    margin-top: 50px;
+    color: #353535;
+}
+
 h2.h2-professional {
     margin-left: 25%;
     margin-top: 50px;
@@ -385,6 +391,13 @@ h4.h4-inventory {
 
     h2.h2-inventory {
         margin-left: 10%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.8em;
+    }
+
+    h2.h2-mail {
+        margin-left: 20%;
         margin-top: 50px;
         color: #6e6e6e;
         font-size: 1.8em;
