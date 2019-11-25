@@ -90,6 +90,12 @@ div.content-div {
     padding: 10px;
 }
 
+.column-analysis {
+    float: left;
+    width: 70%;
+    padding: 10px;
+}
+
 .column-personal {
     float: left;
     width: 40%;
@@ -97,6 +103,13 @@ div.content-div {
 }
 
 .column-less {
+    float: left;
+    width: 15%;
+    padding: 10px;
+    height: 125px;
+}
+
+.column-less-analysis {
     float: left;
     width: 15%;
     padding: 10px;
@@ -201,7 +214,37 @@ h2.h2-mail {
     color: #353535;
 }
 
+h2.h2-ssl {
+    margin-left: 40%;
+    margin-top: 50px;
+    color: #353535;
+}
+
 h2.h2-device {
+    margin-left: 20%;
+    margin-top: 50px;
+    color: #353535;
+}
+
+h2.h2-ci {
+    margin-left: 20%;
+    margin-top: 50px;
+    color: #353535;
+}
+
+h2.h2-temperature {
+    margin-left: 30%;
+    margin-top: 50px;
+    color: #353535;
+}
+
+h2.h2-video {
+    margin-left: 10%;
+    margin-top: 50px;
+    color: #353535;
+}
+
+h2.h2-analysis {
     margin-left: 20%;
     margin-top: 50px;
     color: #353535;
@@ -409,8 +452,43 @@ h4.h4-inventory {
         font-size: 1.8em;
     }
 
+    h2.h2-ssl {
+        margin-left: 23%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.8em;
+    }
+
     h2.h2-device {
+        margin-left: 5%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.8em;
+    }
+
+    h2.h2-ci {
+        margin-left: 12%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.8em;
+    }
+
+    h2.h2-temperature {
         margin-left: 15%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.8em;
+    }
+
+    h2.h2-analysis {
+        margin-left: 5%;
+        margin-top: 50px;
+        color: #6e6e6e;
+        font-size: 1.8em;
+    }
+
+    h2.h2-video {
+        margin-left: 5%;
         margin-top: 50px;
         color: #6e6e6e;
         font-size: 1.8em;
@@ -482,6 +560,19 @@ h4.h4-inventory {
         width: 10%;
         padding: 10px;
         height: 0px;
+    }
+
+    .column-less-analysis {
+        float: left;
+        width: 5%;
+        padding: 10px;
+        height: 0px;
+    }
+
+    .column-analysis {
+        float: left;
+        width: 90%;
+        padding: 10px;
     }
 
     .column-professional {
